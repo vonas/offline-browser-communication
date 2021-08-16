@@ -72,7 +72,7 @@ func main() {
 	panicIfErr(err)
 	panicIfErr(peerConnection.SetLocalDescription(answer))
 
-	fmt.Println("Ready to connect, please load https://jsfiddle.net/ehnpzrfx/")
+	fmt.Println("Ready to connect, please load https://jsfiddle.net/x7qgw1k9/")
 	select {}
 }
 

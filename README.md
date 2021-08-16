@@ -20,11 +20,11 @@ The peers use mDNS to connect to each other, and have pre-set ICE Credentials an
 * `git clone https://github.com/pion/offline-browser-communication.git`
 * `cd offline-browser-communication`
 * `go run *.go`
-* Open https://jsfiddle.net/ehnpzrfx/
+* Open https://jsfiddle.net/x7qgw1k9/
 
 You should see the following in your terminal.
 ```
-Ready to connect, please load https://jsfiddle.net/ehnpzrfx/
+Ready to connect, please load https://jsfiddle.net/x7qgw1k9/
 Connection State has changed checking
 Connection State has changed connected
 DataChannel foo has opened
